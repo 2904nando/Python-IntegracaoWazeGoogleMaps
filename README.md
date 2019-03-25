@@ -1,4 +1,4 @@
-# integracaoWazeGoogleMaps
+# IntegracaoWazeGoogleMaps
 Integração do sistema do Waze com coordenadas extraídas do GoogleMaps a partir de um endereço
 
 Utilizando um endereço real, extrair suas coordenadas utilizando a API do GoogleMaps.
